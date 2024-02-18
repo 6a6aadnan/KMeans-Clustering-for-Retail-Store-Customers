@@ -9,7 +9,7 @@ The primary goal of this project is to explore and understand customer segmentat
 
 ## Dataset
 
-The dataset used in this project is "mall_customers.csv." It contains the following columns:
+The dataset used in this project is "retail_store_customers.csv." It contains the following columns:
 
 - CustomerID: Unique identifier for each customer
 - Gender: Gender of the customer
@@ -27,7 +27,7 @@ The main steps in this project include:
 
 ## Files
 
-- `mall_customers.csv`: The dataset used for clustering.
+- `retail_store_customers.csv`: The dataset used for clustering.
 - `KMeans_Clustering.ipynb`: Jupyter Notebook containing the Python code for KMeans clustering.
 - `README.md`: This file, providing an overview of the project.
 
@@ -42,12 +42,3 @@ To run the code:
 ## Results
 
 The output of this project will include visualizations showing the clusters formed based on annual income and spending score. It will help in identifying distinct customer segments that can be used for targeted marketing strategies.
-
-## Acknowledgments
-
-The project is for educational purposes and was created as part of @Prodigy_Infotech Internship
-
-Feel free to explore, modify, or expand upon this project!
-
-If you have any questions, suggestions, or feedback, please feel free to email me at jagannathsjadhav53@gmail.com
-
