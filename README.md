@@ -31,14 +31,6 @@ The main steps in this project include:
 - `reatil_store.ipynb`: Jupyter Notebook containing the Python code for KMeans clustering.
 - `README.md`: This file, providing an overview of the project.
 
-## Usage
-
-To run the code:
-
-1. Clone this repository to your local machine.
-2. Ensure you have Python installed along with libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn.
-3. Open and run the `retail_store.ipynb` notebook using Jupyter or any compatible environment.
-
 ## Results
 
 The output of this project will include visualizations showing the clusters formed based on annual income and spending score. It will help in identifying distinct customer segments that can be used for targeted marketing strategies.
